@@ -15,7 +15,7 @@
 2. Add the dependency
 ```groovy
 	dependencies {
-	        implementation 'com.github.nightcrawler-:cinch-sycnmanager:Tag'
+	        implementation 'com.github.nightcrawler-:cinch-sycnmanager:<latest-version>'
 	}
 ```
 
