@@ -1,0 +1,3 @@
+include ':Syncmanager'
+include ':app'
+rootProject.name = "CinchSyncManager"
